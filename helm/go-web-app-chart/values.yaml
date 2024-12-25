@@ -8,7 +8,7 @@ image:
   repository: ramdev284/dockerfile
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "12496032522"
+  tag: "12496178940"
 
 ingress:
   enabled: false
